@@ -9,3 +9,5 @@ The second project I did was modelling the path of a hovercraft.  This was fun f
 The third project was about analyzing MLB home run derby hits.  The project was discovering whether or not there was an ideal launch angle to reach a maximum distance. <https://github.com/HPUPhysics-PHY2200-S22/02-project-Holden-Harrington.git>
 
 The fourth project modelled coupled oscillators with one end free and the other end bound. <https://github.com/HPUPhysics-PHY2200-S22/03-project-Holden-Harrington.git>
+
+My final project consisted of modeling a light curve of an eclipsing binary star system.  The idea of the project was to simulate a star orbitting a stationary star and calculate how much area was being covered by the other star.  This was attempted through a method called tiling.  Tiling is simply breaking the object into a bunch of small boxes.  These boxes made up the star and then would need to compare the areas being covered by comparing the location of the center masses of the tiles of one star to the other.
