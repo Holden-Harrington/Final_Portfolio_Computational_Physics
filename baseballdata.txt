@@ -1,0 +1,309 @@
+Player	Round	Exit Velocity (MPH)	Distance (Ft)	Launch Angle
+Vladimir Guerrero Jr.	3	100.0	379	34
+Vladimir Guerrero Jr.	3	104.0	429	27
+Vladimir Guerrero Jr.	3	102.0	437	30
+Vladimir Guerrero Jr.	3	95.0	393	30
+Vladimir Guerrero Jr.	3	102.0	426	24
+Vladimir Guerrero Jr.	3	105.0	437	24
+Vladimir Guerrero Jr.	3	108.0	458	24
+Vladimir Guerrero Jr.	3	103.0	412	31
+Vladimir Guerrero Jr.	3	108.0	441	22
+Vladimir Guerrero Jr.	3	102.0	423	31
+Vladimir Guerrero Jr.	3	101.0	405	34
+Vladimir Guerrero Jr.	3	109.0	434	21
+Vladimir Guerrero Jr.	3	107.0	459	25
+Vladimir Guerrero Jr.	3	110.0	463	25
+Vladimir Guerrero Jr.	3	103.0	439	23
+Vladimir Guerrero Jr.	3	105.0	456	32
+Vladimir Guerrero Jr.	3	104.0	433	23
+Vladimir Guerrero Jr.	3	109.0	445	20
+Vladimir Guerrero Jr.	3	109.0	407	19
+Vladimir Guerrero Jr.	3	91.0	435	41
+Vladimir Guerrero Jr.	3	108.0	463	23
+Vladimir Guerrero Jr.	2	95.0	384	25
+Vladimir Guerrero Jr.	2	106.0	400	35
+Vladimir Guerrero Jr.	2	109.0	469	24
+Vladimir Guerrero Jr.	2	108.0	457	22
+Vladimir Guerrero Jr.	2	105.0	446	30
+Vladimir Guerrero Jr.	2	105.0	440	28
+Vladimir Guerrero Jr.	2	104.0	389	35
+Vladimir Guerrero Jr.	2	112.0	488	26
+Vladimir Guerrero Jr.	2	102.0	429	27
+Vladimir Guerrero Jr.	2	105.0	422	28
+Vladimir Guerrero Jr.	2	108.0	428	24
+Vladimir Guerrero Jr.	2	104.0	419	22
+Vladimir Guerrero Jr.	2	108.0	414	21
+Vladimir Guerrero Jr.	2	104.0	439	28
+Vladimir Guerrero Jr.	2	103.0	402	22
+Vladimir Guerrero Jr.	2	102.0	395	22
+Vladimir Guerrero Jr.	2	99.0	392	33
+Vladimir Guerrero Jr.	2	108.0	439	18
+Vladimir Guerrero Jr.	2	105.0	457	28
+Vladimir Guerrero Jr.	2	99.0	378	37
+Vladimir Guerrero Jr.	2	104.0	426	34
+Vladimir Guerrero Jr.	2	101.0	398	33
+Vladimir Guerrero Jr.	2	106.0	445	29
+Vladimir Guerrero Jr.	2	111.0	468	20
+Vladimir Guerrero Jr.	2	108.0	456	27
+Vladimir Guerrero Jr.	2	99.0	406	29
+Vladimir Guerrero Jr.	2	106.0	448	28
+Vladimir Guerrero Jr.	2	108.0	447	23
+Vladimir Guerrero Jr.	2	99.0	381	33
+Vladimir Guerrero Jr.	2	104.0	429	29
+Vladimir Guerrero Jr.	2	108.0	461	22
+Vladimir Guerrero Jr.	2	99.0	384	33
+Vladimir Guerrero Jr.	2	103.0	420	32
+Vladimir Guerrero Jr.	2	101.0	400	31
+Vladimir Guerrero Jr.	2	104.0	424	29
+Vladimir Guerrero Jr.	2	107.0	449	27
+Vladimir Guerrero Jr.	2	98.0	383	33
+Vladimir Guerrero Jr.	2	107.0	429	32
+Vladimir Guerrero Jr.	1	100.0	381	34
+Vladimir Guerrero Jr.	1	105.0	437	28
+Vladimir Guerrero Jr.	1	103.0	418	28
+Vladimir Guerrero Jr.	1	105.0	406	22
+Vladimir Guerrero Jr.	1	105.0	402	19
+Vladimir Guerrero Jr.	1	105.0	442	21
+Vladimir Guerrero Jr.	1	102.0	429	31
+Vladimir Guerrero Jr.	1	99.0	409	30
+Vladimir Guerrero Jr.	1	107.0	447	24
+Vladimir Guerrero Jr.	1	104.0	425	30
+Vladimir Guerrero Jr.	1	106.0	407	30
+Vladimir Guerrero Jr.	1	106.0	437	21
+Vladimir Guerrero Jr.	1	99.0	410	26
+Vladimir Guerrero Jr.	1	101.0	377	34
+Vladimir Guerrero Jr.	1	104.0	419	31
+Vladimir Guerrero Jr.	1	97.0	393	32
+Vladimir Guerrero Jr.	1	97.0	392	29
+Vladimir Guerrero Jr.	1	104.0	403	35
+Vladimir Guerrero Jr.	1	108.0	459	29
+Vladimir Guerrero Jr.	1	111.0	443	23
+Vladimir Guerrero Jr.	1	109.0	450	23
+Vladimir Guerrero Jr.	1	112.0	421	21
+Vladimir Guerrero Jr.	1	106.0	373	18
+Vladimir Guerrero Jr.	1	102.0	397	33
+Vladimir Guerrero Jr.	1	106.0	430	31
+Vladimir Guerrero Jr.	1	109.0	472	24
+Vladimir Guerrero Jr.	1	110.0	476	22
+Vladimir Guerrero Jr.	1	105.0	406	21
+Vladimir Guerrero Jr.	1	111.0	462	32
+Ronald Acuna Jr.	2	108.0	441	30
+Ronald Acuna Jr.	2	106.0	367	23
+Ronald Acuna Jr.	2	106.0	418	32
+Ronald Acuna Jr.	2	106.0	383	29
+Ronald Acuna Jr.	2	109.0	412	27
+Ronald Acuna Jr.	2	108.0	454	35
+Ronald Acuna Jr.	2	110.0	459	27
+Ronald Acuna Jr.	2	109.0	456	29
+Ronald Acuna Jr.	2	110.0	469	28
+Ronald Acuna Jr.	2	109.0	415	25
+Ronald Acuna Jr.	2	102.0	360	26
+Ronald Acuna Jr.	2	104.0	399	37
+Ronald Acuna Jr.	2	107.0	468	33
+Ronald Acuna Jr.	2	107.0	411	34
+Ronald Acuna Jr.	2	107.0	419	31
+Ronald Acuna Jr.	2	105.0	401	39
+Ronald Acuna Jr.	2	104.0	419	34
+Ronald Acuna Jr.	2	108.0	415	25
+Ronald Acuna Jr.	2	111.0	437	24
+Ronald Acuna Jr.	1	109.0	429	31
+Ronald Acuna Jr.	1	108.0	398	25
+Ronald Acuna Jr.	1	105.0	418	34
+Ronald Acuna Jr.	1	109.0	448	29
+Ronald Acuna Jr.	1	105.0	403	32
+Ronald Acuna Jr.	1	105.0	413	28
+Ronald Acuna Jr.	1	105.0	373	24
+Ronald Acuna Jr.	1	111.0	446	39
+Ronald Acuna Jr.	1	106.0	389	28
+Ronald Acuna Jr.	1	108.0	407	26
+Ronald Acuna Jr.	1	109.0	429	26
+Ronald Acuna Jr.	1	107.0	424	26
+Ronald Acuna Jr.	1	106.0	445	36
+Ronald Acuna Jr.	1	108.0	450	30
+Ronald Acuna Jr.	1	107.0	462	31
+Ronald Acuna Jr.	1	107.0	423	28
+Ronald Acuna Jr.	1	108.0	430	37
+Ronald Acuna Jr.	1	111.0	461	27
+Ronald Acuna Jr.	1	102.0	381	40
+Ronald Acuna Jr.	1	107.0	457	36
+Ronald Acuna Jr.	1	111.0	453	29
+Ronald Acuna Jr.	1	108.0	435	37
+Ronald Acuna Jr.	1	108.0	427	35
+Ronald Acuna Jr.	1	111.0	469	29
+Ronald Acuna Jr.	1	110.0	431	24
+Pete Alonso	3	112.0	429	21
+Pete Alonso	3	104.0	396	20
+Pete Alonso	3	100.0	408	35
+Pete Alonso	3	102.0	373	26
+Pete Alonso	3	111.0	390	19
+Pete Alonso	3	108.0	452	29
+Pete Alonso	3	109.0	458	26
+Pete Alonso	3	112.0	384	21
+Pete Alonso	3	112.0	415	21
+Pete Alonso	3	108.0	418	21
+Pete Alonso	3	107.0	419	36
+Pete Alonso	3	111.0	430	23
+Pete Alonso	3	113.0	434	22
+Pete Alonso	3	105.0	419	33
+Pete Alonso	3	113.0	459	27
+Pete Alonso	3	107.0	408	38
+Pete Alonso	3	101.0	402	26
+Pete Alonso	3	111.0	435	22
+Pete Alonso	3	109.0	431	31
+Pete Alonso	3	107.0	434	32
+Pete Alonso	3	107.0	434	35
+Pete Alonso	3	108.0	438	28
+Pete Alonso	3	106.0	407	34
+Pete Alonso	2	107.0	453	30
+Pete Alonso	2	109.0	424	23
+Pete Alonso	2	100.0	356	27
+Pete Alonso	2	106.0	420	33
+Pete Alonso	2	107.0	444	32
+Pete Alonso	2	103.0	377	34
+Pete Alonso	2	107.0	403	37
+Pete Alonso	2	104.0	424	30
+Pete Alonso	2	108.0	452	26
+Pete Alonso	2	104.0	412	24
+Pete Alonso	2	109.0	438	24
+Pete Alonso	2	105.0	437	32
+Pete Alonso	2	106.0	449	27
+Pete Alonso	2	110.0	467	28
+Pete Alonso	2	109.0	441	32
+Pete Alonso	2	110.0	430	22
+Pete Alonso	2	105.0	409	24
+Pete Alonso	2	110.0	447	33
+Pete Alonso	2	112.0	440	21
+Pete Alonso	2	110.0	390	18
+Pete Alonso	1	98.0	406	32
+Pete Alonso	1	111.0	399	19
+Pete Alonso	1	104.0	423	34
+Pete Alonso	1	109.0	414	21
+Pete Alonso	1	106.0	403	27
+Pete Alonso	1	109.0	465	28
+Pete Alonso	1	104.0	397	32
+Pete Alonso	1	106.0	427	34
+Pete Alonso	1	110.0	466	29
+Pete Alonso	1	107.0	452	33
+Pete Alonso	1	107.0	452	32
+Pete Alonso	1	104.0	420	38
+Pete Alonso	1	108.0	422	38
+Pete Alonso	1	108.0	401	21
+Matt Chapman	1	100.0	419	28
+Matt Chapman	1	104.0	422	34
+Matt Chapman	1	109.0	449	25
+Matt Chapman	1	106.0	425	22
+Matt Chapman	1	108.0	388	20
+Matt Chapman	1	104.0	355	41
+Matt Chapman	1	111.0	447	22
+Matt Chapman	1	106.0	429	25
+Matt Chapman	1	109.0	473	30
+Matt Chapman	1	105.0	451	27
+Matt Chapman	1	106.0	440	32
+Matt Chapman	1	105.0	442	33
+Matt Chapman	1	108.0	477	27
+Josh Bell	1	110.0	393	22
+Josh Bell	1	104.0	369	20
+Josh Bell	1	110.0	456	30
+Josh Bell	1	103.0	407	24
+Josh Bell	1	111.0	403	19
+Josh Bell	1	109.0	449	28
+Josh Bell	1	110.0	427	20
+Josh Bell	1	107.0	451	23
+Josh Bell	1	103.0	432	29
+Josh Bell	1	102.0	402	23
+Josh Bell	1	112.0	459	23
+Josh Bell	1	111.0	419	20
+Josh Bell	1	104.0	402	20
+Josh Bell	1	109.0	400	37
+Josh Bell	1	101.0	398	22
+Josh Bell	1	109.0	391	19
+Josh Bell	1	103.0	427	25
+Josh Bell	1	104.0	401	35
+Joc Pederson	2	105.0	396	35
+Joc Pederson	2	101.0	418	32
+Joc Pederson	2	96.0	422	34
+Joc Pederson	2	106.0	420	21
+Joc Pederson	2	106.0	441	25
+Joc Pederson	2	104.0	369	21
+Joc Pederson	2	106.0	417	23
+Joc Pederson	2	105.0	439	26
+Joc Pederson	2	102.0	399	23
+Joc Pederson	2	105.0	433	33
+Joc Pederson	2	105.0	405	22
+Joc Pederson	2	97.0	381	33
+Joc Pederson	2	106.0	410	21
+Joc Pederson	2	95.0	357	38
+Joc Pederson	2	105.0	350	18
+Joc Pederson	2	99.0	401	30
+Joc Pederson	2	100.0	396	33
+Joc Pederson	2	104.0	418	26
+Joc Pederson	2	100.0	377	22
+Joc Pederson	2	105.0	425	25
+Joc Pederson	2	104.0	439	30
+Joc Pederson	2	105.0	428	26
+Joc Pederson	2	108.0	437	23
+Joc Pederson	2	101.0	380	36
+Joc Pederson	2	101.0	418	34
+Joc Pederson	2	101.0	367	22
+Joc Pederson	2	99.0	411	30
+Joc Pederson	2	104.0	424	31
+Joc Pederson	2	101.0	402	34
+Joc Pederson	2	107.0	430	22
+Joc Pederson	2	104.0	440	28
+Joc Pederson	2	107.0	422	23
+Joc Pederson	2	107.0	450	27
+Joc Pederson	2	106.0	445	32
+Joc Pederson	2	106.0	434	32
+Joc Pederson	2	109.0	424	21
+Joc Pederson	2	108.0	379	20
+Joc Pederson	2	106.0	427	24
+Joc Pederson	2	105.0	449	30
+Joc Pederson	1	106.0	407	28
+Joc Pederson	1	109.0	429	25
+Joc Pederson	1	107.0	436	34
+Joc Pederson	1	101.0	391	37
+Joc Pederson	1	101.0	412	32
+Joc Pederson	1	103.0	432	29
+Joc Pederson	1	106.0	452	32
+Joc Pederson	1	109.0	429	25
+Joc Pederson	1	105.0	431	25
+Joc Pederson	1	103.0	401	26
+Joc Pederson	1	103.0	392	39
+Joc Pederson	1	109.0	356	22
+Joc Pederson	1	104.0	403	42
+Joc Pederson	1	110.0	415	22
+Joc Pederson	1	99.0	403	37
+Joc Pederson	1	105.0	433	28
+Joc Pederson	1	109.0	387	24
+Joc Pederson	1	111.0	400	22
+Joc Pederson	1	103.0	411	36
+Joc Pederson	1	103.0	412	37
+Joc Pederson	1	107.0	449	27
+Carlos Santana	1	99.0	391	36
+Carlos Santana	1	106.0	363	18
+Carlos Santana	1	103.0	385	21
+Carlos Santana	1	105.0	367	19
+Carlos Santana	1	102.0	420	31
+Carlos Santana	1	104.0	428	31
+Carlos Santana	1	109.0	463	28
+Carlos Santana	1	105.0	398	20
+Carlos Santana	1	92.0	380	29
+Carlos Santana	1	107.0	366	18
+Carlos Santana	1	105.0	439	25
+Carlos Santana	1	106.0	431	24
+Carlos Santana	1	99.0	395	24
+Alex Bregman	1	97.0	382	29
+Alex Bregman	1	97.0	390	33
+Alex Bregman	1	97.0	370	24
+Alex Bregman	1	100.0	366	20
+Alex Bregman	1	95.0	380	33
+Alex Bregman	1	98.0	386	33
+Alex Bregman	1	101.0	417	25
+Alex Bregman	1	98.0	408	27
+Alex Bregman	1	101.0	397	22
+Alex Bregman	1	97.0	380	36
+Alex Bregman	1	98.0	397	29
+Alex Bregman	1	94.0	375	36
+Alex Bregman	1	95.0	397	28
+Alex Bregman	1	98.0	401	28
+Alex Bregman	1	95.0	373	32
