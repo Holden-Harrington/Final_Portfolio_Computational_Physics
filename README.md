@@ -4,7 +4,7 @@ This is a portfolio of all of the computational physics projects I completed at 
 
 To begin, the first project was modelling helium atoms inside a latex balloon.  This was challenging as I had to take into account the gaps between the latex and let helium atoms escape slowly. <https://github.com/Holden-Harrington/Final_Portfolio_Computational_Physics/blob/main/00-Project-Holden_Harrington.ipynb>
 
-The second project I did was modelling the path of a hovercraft.  This was fun for me as I had volunteered at a science exposition for community outreach for our school, called HPUinverse day, where I gave kids rides on our makeshift hovercrafts.  It was shown that the movement of the hovercraft was dependent on its radius.  Rotational displacement and angular velocity was also calculated. <https://github.com/Holden-Harrington/Final_Portfolio_Computational_Physics/blob/main/01-Project-02-Holden-Harrington.ipynb>
+The second project I did was modelling the path of a hovercraft.  This was fun for me as I had volunteered at a science exposition for community outreach through our school, called HPUinverse day, where I gave kids rides on our makeshift hovercrafts.  It was shown that the movement of the hovercraft was dependent on its radius.  Rotational displacement and angular velocity was also calculated. <https://github.com/Holden-Harrington/Final_Portfolio_Computational_Physics/blob/main/01-Project-02-Holden-Harrington.ipynb>
 
 The third project was about analyzing MLB home run derby hits.  The project was discovering whether or not there was an ideal launch angle to reach a maximum distance. <https://github.com/Holden-Harrington/Final_Portfolio_Computational_Physics/blob/main/02-project-Holden-Harrington.ipynb>
 
