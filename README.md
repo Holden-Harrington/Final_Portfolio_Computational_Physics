@@ -1,4 +1,4 @@
-# Final_Portfolio_Computational_Physics
+# Final Portfolio Computational Physics
 
 This is a portfolio of all of the computational physics projects I completed at High Point University in the spring semester of 2022.  
 
