@@ -41,7 +41,7 @@ The following gives a brief overview of each project with the links to their res
 <p align="center">
   <img 
     width="450"
-    height="100"
+    height="70"
     src="03-Picture.png"
   >
 </p>
