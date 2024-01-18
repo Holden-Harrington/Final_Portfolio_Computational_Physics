@@ -6,8 +6,8 @@ This is a portfolio of all of the computational physics projects Holden Harringt
 
 <p align="center">
   <img 
-    width="400"
-    height="250"
+    width="560"
+    height="350"
     src="00-Picture.png"
   >
 </p>
