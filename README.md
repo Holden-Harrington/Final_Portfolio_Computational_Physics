@@ -1,4 +1,4 @@
-# Porject Portfolio - Computational Physics
+# Project Portfolio - Computational Physics
 
 This is a portfolio of all of the computational physics projects Holden Harrington completed at High Point University in the spring semester of 2022.  
 
