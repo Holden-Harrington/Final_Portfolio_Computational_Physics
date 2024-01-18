@@ -40,7 +40,7 @@ The following gives a brief overview of each project with the links to their res
 
 <p align="center">
   <img 
-    width="600"
+    width="500"
     height="300"
     src="03-Picture.png"
   >
