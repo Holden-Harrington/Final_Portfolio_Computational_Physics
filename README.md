@@ -7,7 +7,7 @@ This is a portfolio of all of the computational physics projects Holden Harringt
 <p align="center">
   <img 
     width="400"
-    height="200"
+    height="250"
     src="00-Picture.png"
   >
 </p>
