@@ -1,7 +1,5 @@
 # Porject Portfolio - Computational Physics
 
-# Final Portfolio Computational Physics
-
 This is a portfolio of all of the computational physics projects Holden Harrington completed at High Point University in the spring semester of 2022.  
 
 * [Helium Atoms Inside a Latex Balloon](https://github.com/HPUPhysics-PHY2200-S22/00-project-Holden-Harrington.git) - To begin, the first project involved modelling helium atoms inside a latex balloon.  This was challenging as I had to take into account the gaps between the latex and let helium atoms escape slowly.
