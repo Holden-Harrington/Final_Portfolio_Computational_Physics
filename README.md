@@ -10,8 +10,8 @@ The following gives a brief overview of each project with the links to their res
 
 <p align="center">
   <img 
-    width="560"
-    height="350"
+    width="480"
+    height="300"
     src="00-Picture.png"
   >
 </p>
@@ -40,8 +40,8 @@ The following gives a brief overview of each project with the links to their res
 
 <p align="center">
   <img 
-    width="500"
-    height="300"
+    width="450"
+    height="200"
     src="03-Picture.png"
   >
 </p>
@@ -50,8 +50,8 @@ The following gives a brief overview of each project with the links to their res
 
 <p align="center">
   <img 
-    width="560"
-    height="350"
+    width="480"
+    height="300"
     src="04-Picture.png"
   >
 </p>
