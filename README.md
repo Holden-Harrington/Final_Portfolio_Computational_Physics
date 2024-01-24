@@ -59,4 +59,3 @@ The following gives a brief overview of each project with the links to their res
 ## Citations and Acknowledgements
 * Dr. Aaron Titus, Professor of Physics and Astronomy, High Point University
 * Wang, Jianyi Jay. Computational Modeling and Visualization of Physical Systems with Python. Wiley, 2016
-* Wang, Jianyi Jay. Computational Modeling and Visualization of Physical Systems with Python. Wiley, 2016
