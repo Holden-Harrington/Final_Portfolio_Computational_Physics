@@ -16,7 +16,7 @@ The following gives a brief overview of each project with the links to their res
   >
 </p>
 
-* [Path of a hovercraft](https://github.com/Holden-Harrington/Final_Portfolio_Computational_Physics/blob/main/01-Project-Holden-Harrington.ipynb) -  This project models a makeshift hovercraft that had angular and translational force exerted onto it by a vertical leaf blower.  It is exciting for the student as he had volunteered at a science exposition for community outreach for their university, called HPUinverse day, where he gave kids rides on said makeshift hovercrafts. The study reveals that the movement of the hovercraft was dependent on its radius through rotational displacement and angular velocity calculations.
+* [Path of a Hovercraft](https://github.com/Holden-Harrington/Final_Portfolio_Computational_Physics/blob/main/01-Project-Holden-Harrington.ipynb) -  This project models a makeshift hovercraft that had angular and translational force exerted onto it by a vertical leaf blower.  It is exciting for the student as he had volunteered at a science exposition for community outreach for their university, called HPUinverse day, where he gave kids rides on said makeshift hovercrafts. The study reveals that the movement of the hovercraft was dependent on its radius through rotational displacement and angular velocity calculations.
 
 <p align="center">
   <img 
