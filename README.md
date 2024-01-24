@@ -6,7 +6,7 @@ This portfolio showcases all of the computational physics projects Holden Harrin
 ## Projects
 The following gives a brief overview of each project with the links to their respective Jupyter Notebook.
 
-* [Helium Atoms Inside a Latex Balloon](https://github.com/HPUPhysics-PHY2200-S22/00-project-Holden-Harrington.git) - To begin, the first project involves modeling helium atoms inside a latex balloon.  The helium atoms collide with each another and the balloon, creating elastic collisions until the atoms escape the balloon.  This is challenging as the student has to account for the gaps between the latex balloon in order to let the helium atoms escape slowly.
+* [Helium Atoms Inside a Latex Balloon](https://github.com/Holden-Harrington/Final_Portfolio_Computational_Physics/blob/main/00-Project-Holden_Harrington.ipynb) - To begin, the first project involves modeling helium atoms inside a latex balloon.  The helium atoms collide with each another and the balloon, creating elastic collisions until the atoms escape the balloon.  This is challenging as the student has to account for the gaps between the latex balloon in order to let the helium atoms escape slowly.
 
 <p align="center">
   <img 
@@ -16,7 +16,7 @@ The following gives a brief overview of each project with the links to their res
   >
 </p>
 
-* [Path of a hovercraft](https://github.com/HPUPhysics-PHY2200-S22/01-project-Holden-Harrington.git) -  This project models a makeshift hovercraft that had angular and translational force exerted onto it by a vertical leaf blower.  It is exciting for the student as he had volunteered at a science exposition for community outreach for their university, called HPUinverse day, where he gave kids rides on said makeshift hovercrafts. The study reveals that the movement of the hovercraft was dependent on its radius through rotational displacement and angular velocity calculations.
+* [Path of a hovercraft](https://github.com/Holden-Harrington/Final_Portfolio_Computational_Physics/blob/main/01-Project-Holden-Harrington.ipynb) -  This project models a makeshift hovercraft that had angular and translational force exerted onto it by a vertical leaf blower.  It is exciting for the student as he had volunteered at a science exposition for community outreach for their university, called HPUinverse day, where he gave kids rides on said makeshift hovercrafts. The study reveals that the movement of the hovercraft was dependent on its radius through rotational displacement and angular velocity calculations.
 
 <p align="center">
   <img 
@@ -26,7 +26,7 @@ The following gives a brief overview of each project with the links to their res
   >
 </p>
 
-* [MLB Home Runs](https://github.com/HPUPhysics-PHY2200-S22/02-project-Holden-Harrington.git) - The third project analyzes real home run derby data from mlb.com to explore whether or not there is an ideal launch angle to reach a maximum distance, equating to more home run hits.  Using exit velocities with their corresponding distances travelled and their launch angle provides insight to whether there is a correlation.
+* [MLB Home Runs](https://github.com/Holden-Harrington/Final_Portfolio_Computational_Physics/blob/main/02-project-Holden-Harrington.ipynb) - The third project analyzes real home run derby data from mlb.com to explore whether or not there is an ideal launch angle to reach a maximum distance, equating to more home run hits.  Using exit velocities with their corresponding distances travelled and their launch angle provides insight to whether there is a correlation.
 
 <p align="center">
   <img 
@@ -36,7 +36,7 @@ The following gives a brief overview of each project with the links to their res
   >
 </p>
 
-* [Coupled Oscillators](<https://github.com/HPUPhysics-PHY2200-S22/03-project-Holden-Harrington.git>) - The fourth project models coupled oscillators with one end bound and the other end bound or free.  This simulation demonstrates how the movement of masses affects each other when linked together by a chain.  When dealing with an interconnected system like this, numerical integration becomes a valuable technique for solving the system's differential equations.  However, challenges arise when multiple systems are coupled together, leading to issues like prolonged computing time and insufficient computing power.  The solution here is to use linear algebra to simplify the computational cost, specifically the SciPy linear algebra package.
+* [Coupled Oscillators](<https://github.com/Holden-Harrington/Final_Portfolio_Computational_Physics/blob/main/03-project-Holden-Harrington.ipynb>) - The fourth project models coupled oscillators with one end bound and the other end bound or free.  This simulation demonstrates how the movement of masses affects each other when linked together by a chain.  When dealing with an interconnected system like this, numerical integration becomes a valuable technique for solving the system's differential equations.  However, challenges arise when multiple systems are coupled together, leading to issues like prolonged computing time and insufficient computing power.  The solution here is to use linear algebra to simplify the computational cost, specifically the SciPy linear algebra package.
 
 <p align="center">
   <img 
