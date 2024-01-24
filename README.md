@@ -46,7 +46,7 @@ The following gives a brief overview of each project with the links to their res
   >
 </p>
 
-* [Eclipsing Binary Star System](<https://github.com/Holden-Harrington/Final_Portfolio_Computational_Physics/blob/main/Final-Project-Holden_Harrington.ipynb>) - The fifth and final project involves modeling a light curve of an eclipsing binary star system.  The idea is to simulate a star orbitting a stationary star and calculate how much area was being covered by the other star.  This is attempted through a method called tiling.  Tiling is simply breaking the object into a bunch of small boxes.  These boxes made up the star, and the areas covered are compared by evaluating the location of the center masses of the tiles for each star.
+* [Eclipsing Binary Star System](<[https://github.com/Holden-Harrington/Final_Portfolio_Computational_Physics/blob/main/Final-Project-Holden_Harrington.ipynb](https://github.com/Holden-Harrington/Final_Portfolio_Computational_Physics/blob/main/04-Project-Holden_Harrington.ipynb)>) - The fifth and final project involves modeling a light curve of an eclipsing binary star system.  The idea is to simulate a star orbitting a stationary star and calculate how much area was being covered by the other star.  This is attempted through a method called tiling.  Tiling is simply breaking the object into a bunch of small boxes.  These boxes made up the star, and the areas covered are compared by evaluating the location of the center masses of the tiles for each star.
 
 <p align="center">
   <img 
